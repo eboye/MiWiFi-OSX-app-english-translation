@@ -10,3 +10,7 @@ Localized strings in english for MiWiFi app for OSX
 6. Open Resources folder
 7. Paste en.lproj folder
 8. Quit the app and start it again
+
+##Contrinution
+
+If you are interested in contributions, please feel free to make a pull request.
